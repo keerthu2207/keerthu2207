@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF1493&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Passionate+Problem+Solver;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FF1493&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Proficient+in+Python,+SQL;Passionate+Problem+Solver;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -23,5 +23,5 @@
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,django,mysql,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,django,mysql,git,github,bootstrap&perline=5" />
 </p>
