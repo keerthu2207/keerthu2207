@@ -23,5 +23,5 @@
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,django,mysql,git,github,bootstrap&perline=5" />Python|C|HTML|CSS|Javascript|Django|Mysql|Git|Github|Bootstrap
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,django,mysql,git,github,bootstrap&perline=5" /><br>Python|C|HTML|CSS|Javascript|Django|Mysql|Git|Github|Bootstrap
 </p>
